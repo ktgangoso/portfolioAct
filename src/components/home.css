@@ -1,0 +1,47 @@
+.my-container{
+    margin-left: 10%;
+}
+.profile{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 2px solid #000000;
+    margin-left: 15rem;
+}
+.text{
+    margin-left: 10rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .profile {
+      margin: auto;
+      margin-left: 6rem;
+      text-align: center;
+    }
+    .text {
+        margin: auto;
+        margin-left: 2rem;
+        text-align: center;
+    }
+    .name p {
+        margin-top: 10%;
+    }
+  }
+
+.name{
+    font-size: 60px;
+    margin: 0;
+    font-weight: 700;
+}
+
+.school{
+    font-size: 40px;
+    margin: 0;
+    font-weight: 700;
+}
+
+.work{
+    font-size: 30px;
+    margin: 0;
+    font-weight: 700;
+}

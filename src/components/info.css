@@ -1,0 +1,28 @@
+.profile2{
+    height: 200px;
+    width: 200px;
+    border: 2px solid #000000;
+}
+
+.text2{
+    margin-left: -20%;
+}
+.about{
+    font-size: 50px;
+    font-weight: 700;
+}
+.content{
+    font-size: 20px;
+}
+
+.icon{
+    margin: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    color: #000000;
+    font-size: 40px;
+}
+
+.icon:hover{
+    color: #292929;
+}
