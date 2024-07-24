@@ -1,6 +1,15 @@
 .my-container{
-    margin-left: 10%;
+    margin-top: 10%;
+    height: 100vh;
+
 }
+
+.my-containers{
+    margin-top: 10%;
+    height: 90vh;
+
+}
+
 .profile{
     height: 200px;
     width: 200px;
